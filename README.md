@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on Dairy Farmers Credit Cooperative
+- 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Hyperledger Fabric
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about React
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
