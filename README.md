@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJs
 - 🤔 I’m looking for help with Hyperledger Fabric
 - 💬 Ask me about React
-- 😄 Pronouns: He/Him
+
 
 
 
