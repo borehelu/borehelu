@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borehelu&label=Profile%20views&color=0e75b6&style=flat" alt="borehelu" /> </p>
 
-- 👨‍💻 All of my projects are available at [helubore.co.ke](helubore.co.ke)
+
 
 - 💬 Ask me about **react**
 
